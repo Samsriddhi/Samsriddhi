@@ -20,7 +20,7 @@
 1. Detecting yoga asanas and booking appointments using AI on Azure Cloud- https://github.com/Samsriddhi/ZenFlo
 2. Recognise and detect faces out of images- https://github.com/Samsriddhi/Face-Detection-and-Recognition
 3. Calculating the traffic probability in New York City- https://github.com/Samsriddhi/NYC-Traffic-Analysis
-4.Analysis of the Cataract Surgeries in India- https://github.com/Samsriddhi/Cataract-Modelling/tree/main
+4. Analysis of the Cataract Surgeries in India- https://github.com/Samsriddhi/Cataract-Modelling/tree/main
 
 🖥️Front-End:
 1. A web-app to detect and identify faces out of an image/video: https://github.com/Samsriddhi/Web-App-for-Face-Detection-and-Recognition-
