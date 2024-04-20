@@ -13,24 +13,26 @@
 
 # 🚀 PROJECTS:
 
-## ☁️ Cloud:
+##  Cloud ☁️:
 1. Using GPT 3.5 to detect yoga asanas and booking appointments using AI on Azure Cloud- https://github.com/Samsriddhi/ZenFlo
 
-## 🤖 AI:
+## AI 🤖 :
 1. Detecting yoga asanas and booking appointments using AI on Azure Cloud- https://github.com/Samsriddhi/ZenFlo
 2. Recognise and detect faces out of images- https://github.com/Samsriddhi/Face-Detection-and-Recognition
 3. Calculating the traffic probability in New York City- https://github.com/Samsriddhi/NYC-Traffic-Analysis
 4. Analysis of the Cataract Surgeries in India- https://github.com/Samsriddhi/Cataract-Modelling/tree/main
 5. Solving Sudoku using BFS, DFS, Backtracking, UCS, Greedy, A Star : https://github.com/Samsriddhi/Sudoku-Solver-python-BFS-and-Backtracking-
+6. Credit Card Fraud Detection ROC-AUC .98 Using Undersampling and Oversampling (SMOTE), Logistical Regression (comparitive analysis of SVC, Tree, KNN ) evaluated using Grid Search CV  : https://github.com/Samsriddhi/creditcard-fraud-detection
 
-## 🖥️ Front-End:
+## Front-End 🖥️ :
 1. A web-app to detect and identify faces out of an image/video: https://github.com/Samsriddhi/Web-App-for-Face-Detection-and-Recognition-
 2. Creating a FastAPI webapp to predict yogasanas- https://github.com/Samsriddhi/ZenFlo
 3. Using tkinter to visualise sudoku for BFS and Backtracking to solve sudoku: https://github.com/Samsriddhi/Sudoku-Solver-python-BFS-and-Backtracking-
 
-## 🌿 DSA and Algorithm optimization:
+## DSA and Algorithm optimization 🌿 :
 1. Solving Sudoku using BFS, DFS, Backtracking, UCS, Greedy, A Star : https://github.com/Samsriddhi/Sudoku-Solver-python-BFS-and-Backtracking-
 2. Estimated the Hubble Constant using Bayesian Statistics and MCMC algorithm- https://github.com/Samsriddhi/Hubble
+3.Comparing rsampling(Near Miss, Undersampling, Oversampling) and classifiers for binary classification data in Credit Card Fraud Detection ROC-AUC .98 Using Undersampling and Oversampling (SMOTE), Logistical Regression (comparitive analysis of SVC, Tree, KNN ) evaluated using Grid Search CV  : https://github.com/Samsriddhi/creditcard-fraud-detection
 
 
 
