@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 I am Samriddhi, a freshie at Nanyang Technological University, NTU  
+👋 I am Samriddhi, a sophomore at Nanyang Technological University, NTU  
 🖥️ Computer Science Major and Business Minor  
 🌐 English हिन्दी Spanish  
 🔍 Research: NLP + Algorithms  
@@ -11,7 +11,7 @@
 # 📝 Published articles:
 💫 Estimating the Hubble constant using Bayesian statistics and Markov Chain Monte Carlo algorithm-https://ijaem.net/issue_dcp/Estimating%20the%20value%20of%20H0%20by%20using%20Type1A%20Supernovae%20and%20Bayesian%20statistics%20to%20a%20precision%20of%202.1.pdf
 
-# 🚀 PROJECTS:
+# 🚀 PROJECTS( work in progress to update everything I have done in year 2..):
 
 ##  Cloud ☁️:
 1. Using GPT 3.5 to detect yoga asanas and booking appointments using AI on Azure Cloud- https://github.com/Samsriddhi/ZenFlo
